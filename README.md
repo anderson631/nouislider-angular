@@ -30,6 +30,9 @@ angular.module('sampleApp', ['ya.nouislider'])
 })
 ```
 ```html
+<link  href="nouislider-angular/bower_components/nouislider/distribute/nouislider.min.css" rel="stylesheet">
+<script src="nouislider-angular/bower_components/nouislider/distribute/nouislider.min.js"></script>
+<script src="nouislider-angular/nouislider.min.js"></script>
 <div ya-no-ui-slider='options'></div>
 ```
 
